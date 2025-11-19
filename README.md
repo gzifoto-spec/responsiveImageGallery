@@ -5,23 +5,6 @@
 This project is a minimal and responsive **image gallery** built using **HTML5** and **CSS3**.  
 It displays a grid of images inside a flexible container, making it easy to showcase a collection of photos.
 
-## 📁 Project Structure
-
-project/
-├── index.html
-├── CSS/
-│ └── index.css
-└── images/
-    ├── 1.jpeg
-    ├── 2.jpeg
-    ├── 3.jpeg
-    ├── 4.jpeg
-    ├── 5.jpeg
-    ├── 6.jpeg
-    ├── 7.jpeg
-    ├── 8.jpeg
-    └── 9.jpeg
-
     ## ✨ Features
 
 - Responsive image grid layout  
@@ -45,4 +28,4 @@ project/
 📫 Contact:
 
 GitHub: https://github.com/gzifoto-spec
-Email: gzifot@gmail.com
+    Email: gzifot@gmail.com
