@@ -29,3 +29,7 @@ It displays a grid of images inside a flexible container, making it easy to show
 
 GitHub: https://github.com/gzifoto-spec
     Email: gzifot@gmail.com
+
+TODO list: 
+    - upload the images with ligther web format
+    - stylize inspired on the example
