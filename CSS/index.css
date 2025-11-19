@@ -1,5 +1,10 @@
 .container {
-    display: grid;
+    display: inline-grid;
     grid-template-columns: auto auto auto;
+    gap: 1%;
     padding: 10 px;
+
+}
+div {
+    align-items: center;
 }
