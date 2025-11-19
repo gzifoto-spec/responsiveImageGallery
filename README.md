@@ -12,7 +12,6 @@ It displays a grid of images inside a flexible container, making it easy to show
 - 100% width images that adapt to the container  
 - Easy to add, remove, or replace images  
 - Lightweight (no JavaScript required)
-- No Queries used
 
 ---
 

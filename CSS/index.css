@@ -8,3 +8,8 @@
 div {
     align-items: center;
 }
+@media (max-width: 600px) {
+    .container div{
+        grid-column: 1 / span 3;
+    }
+}
